@@ -10,3 +10,8 @@ Além disso, deve-se ter o Selenium WebDriver instalado. Para instalar, vá no s
 
 `pip install -U selenium`
 
+Possíveis atualizações:
+-[] Fazer para outros browsers
+-[] Colocar opção para selecionar o browser
+-[] Encontrar conversas recentes que não estão na tela
+-[] Percorrer lista de contatos
