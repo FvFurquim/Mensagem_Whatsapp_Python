@@ -7,5 +7,6 @@ Após a instalação, coloque o local do ChromeDriver na variável 'driver' (com
 Para utilizar este programa em outro browser, é necessário mudar o WebDriver.
 
 Além disso, deve-se ter o Selenium WebDriver instalado. Para instalar, vá no seu prompt e digite o comando 
+
 `pip install -U selenium`
 
