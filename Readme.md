@@ -2,7 +2,7 @@
 
 Este programa em Python 3 serve para enviar um número determinado de menssagens para um ou mais chats (se estiver utilizando a V2) escolhidos pelo usuário.
 
-Vale notar que ele funciona apenas no Google Chrome, em sua forma atual. Para isso, é necessário instalar o WebDriver para Chrome (ChromeDriver) através desse [link](https://chromedriver.chromium.org/downloads).
+Vale notar que ele funciona apenas no Google Chrome, em sua forma atual. Para isso, é necessário instalar o WebDriver para Chrome (ChromeDriver) através desse [link](https://chromedriver.chromium.org/downloads). Obs: Certifique-se de que está instalando o ChromeDriver correto para a sua versão do Google Chrome. Se você não sabe a sua versão do Chrome, clique [aqui](chrome://settings/help) para consultá-la.
 Após a instalação, coloque o local do ChromeDriver na variável 'driver' (como está exemplificado no código).
 Para utilizar este programa em outro browser, é necessário mudar o WebDriver.
 
