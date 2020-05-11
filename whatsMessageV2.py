@@ -1,7 +1,7 @@
 from selenium import webdriver
 import time
 
-driver = webdriver.Chrome(executable_path=r'C:/Users/Andre/Downloads/chromedriver_win32/chromedriver.exe')
+driver = webdriver.Chrome(executable_path=r'D:/Program Files/webdrivers/chromedriver.exe')
 driver.get('https://web.whatsapp.com/')
 
 input('Press anything after scanning QR code')
